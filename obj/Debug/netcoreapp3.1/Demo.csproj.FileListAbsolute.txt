@@ -1,0 +1,16 @@
+/home/thang/ThuctapEsolutions/Demo/bin/Debug/netcoreapp3.1/Demo
+/home/thang/ThuctapEsolutions/Demo/bin/Debug/netcoreapp3.1/Demo.deps.json
+/home/thang/ThuctapEsolutions/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.json
+/home/thang/ThuctapEsolutions/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.dev.json
+/home/thang/ThuctapEsolutions/Demo/bin/Debug/netcoreapp3.1/Demo.dll
+/home/thang/ThuctapEsolutions/Demo/bin/Debug/netcoreapp3.1/Demo.pdb
+/home/thang/ThuctapEsolutions/Demo/bin/Debug/netcoreapp3.1/Crc32.NET.dll
+/home/thang/ThuctapEsolutions/Demo/bin/Debug/netcoreapp3.1/FluentFTP.dll
+/home/thang/ThuctapEsolutions/Demo/obj/Debug/netcoreapp3.1/Demo.csprojAssemblyReference.cache
+/home/thang/ThuctapEsolutions/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfoInputs.cache
+/home/thang/ThuctapEsolutions/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfo.cs
+/home/thang/ThuctapEsolutions/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CoreCompileInputs.cache
+/home/thang/ThuctapEsolutions/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CopyComplete
+/home/thang/ThuctapEsolutions/Demo/obj/Debug/netcoreapp3.1/Demo.dll
+/home/thang/ThuctapEsolutions/Demo/obj/Debug/netcoreapp3.1/Demo.pdb
+/home/thang/ThuctapEsolutions/Demo/obj/Debug/netcoreapp3.1/Demo.genruntimeconfig.cache
